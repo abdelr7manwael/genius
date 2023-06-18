@@ -1,0 +1,34 @@
+.box {
+    width: 250px;
+    height: 400px;
+    background-color: blueviolet;
+    margin: 20px auto;
+    border-color: skyblue;
+    border-width: 10px;
+}
+
+.circle {
+    width: 300px;
+    height: 300px;
+    background-color: blueviolet;
+    border-radius: 50%;
+    margin: 20px auto;
+    border-color: skyblue;
+    border-width: 10px;
+}
+
+.solid {
+    border-style: solid;
+}
+
+.dotted {
+    border-style: dotted;
+}
+
+.dashed {
+    border-style: dashed;
+}
+
+.double {
+    border-style: double;
+}
